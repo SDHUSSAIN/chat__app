@@ -3,11 +3,11 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore'; 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBQm7g_1v1rUzQarxC-j-RE-l6aSlDKFZ8",
+    apiKey: "your api key",
     authDomain: "office-chat-2ae13.firebaseapp.com",
     projectId: "office-chat-2ae13",
     storageBucket: "office-chat-2ae13.appspot.com",
-    messagingSenderId: "682798912013",
+    messagingSenderId: "your id",
     appId: "1:682798912013:web:b9cd9a9e20b08ff1b93b44"
   };
 
